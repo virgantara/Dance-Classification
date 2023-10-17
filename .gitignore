@@ -1,6 +1,12 @@
-*.h5
-dataset/**
-.idea/**
-.ipynb_checkpoints/**
-cnn_lstm
-cnn_lstm/**
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
