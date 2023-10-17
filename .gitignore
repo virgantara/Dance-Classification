@@ -1,0 +1,6 @@
+*.h5
+dataset/**
+.idea/**
+.ipynb_checkpoints/**
+cnn_lstm
+cnn_lstm/**
